@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "httpd-folder",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../nginx-html/images"
+		}
+	],
+	"settings": {}
+}
